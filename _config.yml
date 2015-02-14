@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Nikhil Karnik
 locale: en_US
-description: Describe your website here.
+description: My corner of the web
 logo: site-logo.png
 search: true
 url: http://nkarnik.github.io
