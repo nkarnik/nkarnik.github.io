@@ -2,7 +2,7 @@
 
 title: Nikhil Karnik
 locale: en_US
-description: My corner of the web
+description: My Corner Of The Web
 logo: site-logo.png
 search: true
 url: http://nkarnik.github.io
@@ -31,9 +31,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Nikhil Karnik
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: nikhil.pankaj.karnik@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
