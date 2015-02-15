@@ -5,14 +5,14 @@ excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
 
-Nikhil
+Nikhil Karnik
 ============
  
--------------------     ----------------------------
-8 10th Street                        email@example.com
-San Francisco, CA                          @twitter_handle
-USA                           1800 my-phone-nr
--------------------     ----------------------------
+-------------------     
+nikhil.pankaj.karnik@gmail.com                     
+San Francisco, CA                  
+USA                          
+------------------- 
  
 Education
 ---------
