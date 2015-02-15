@@ -30,7 +30,7 @@ Education
 Experience
 ----------
 
-### August 2014-Present  
+August 2014-Present  
 :   **Software Engineer**; Zillabyte (San Francisco, CA)
 
     *Distributed computing as a service*
