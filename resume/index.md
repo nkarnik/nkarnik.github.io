@@ -17,27 +17,38 @@ USA                           1800 my-phone-nr
 Education
 ---------
  
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2014-2014
+:   **Data Engineering Fellow**; Insight Data Science (Palo Alto, CA)
  
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Developed GFX, a data pipeline and web application for analyzing relationships between geopolitical events and foreign exchange currency trends using historical FOREX data and the open source GDELT data set.*
  
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2009-2013
+:   **BSE, Electrical Engineering**; University of
+    Pennsylvania (Philadelphia, PA)
  
-    *Minor: Awesomeology*
  
 Experience
 ----------
+
+August 2014 - Present 
+:   **Zillabyte**
+    **Software Engineer**
+
+    Distributed computing as a service
+
+    Backend Engineering Projects
+    * Infrastructure Service Monitoring using Chef and Graphite
+    * Integrated Apache Kafka for Data ingestion
+    * Implemented Docker containers for customer process isolation
  
-**Your Most Recent Work Experience:**
- 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
- 
+    Technical Evangelism
+    *[Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in [TechCrunch](http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/) and [Business Insider](http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11)
+
+    *[What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)
+
+    *[Build a Global Weather Service in Under an Hour](https://www.twilio.com/blog/2015/01/rains-coming-tell-your-landlord-via-twilio-sms-and-zillabyte.html)
+
+
 * First item
  
 * Item with [link](http://www.example.com). Links will work both in
