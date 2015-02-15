@@ -21,7 +21,8 @@ search_omit: false
 
 *Distributed computing as a service*  
 <br>
-:   **Backend Engineering Projects**
+:   
+    **Backend Engineering Projects**
   
       * Built Infrastructure Monitoring Service using Redis, Chef and Graphite  
       * Integrated Apache Kafka for data ingestion  
