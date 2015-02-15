@@ -9,9 +9,9 @@ Johnny Coder
 ============
  
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+8 10th Street                        email@example.com
+San Francisco, CA                          @twitter_handle
+USA                           1800 my-phone-nr
 -------------------     ----------------------------
  
 Education
