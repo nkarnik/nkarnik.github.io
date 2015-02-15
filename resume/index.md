@@ -31,20 +31,20 @@ Experience
 ----------
 
 August 2014 - Present 
-:   **Zillabyte**
-    **Software Engineer**
+**Zillabyte**
+**Software Engineer**
 
     Distributed computing as a service
 
     Backend Engineering Projects
-    * Infrastructure Service Monitoring using Chef and Graphite
-    * Integrated Apache Kafka for Data ingestion
-    * Implemented Docker containers for customer process isolation
+        * Infrastructure Service Monitoring using Chef and Graphite
+        * Integrated Apache Kafka for Data ingestion
+        * Implemented Docker containers for customer process isolation
  
     Technical Evangelism
-    *[Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in [TechCrunch](http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/) and [Business Insider](http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11)
+        *[Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in [TechCrunch](http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/) and [Business Insider](http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11)
 
-    *[What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)
+        *[What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)
 
     *[Build a Global Weather Service in Under an Hour](https://www.twilio.com/blog/2015/01/rains-coming-tell-your-landlord-via-twilio-sms-and-zillabyte.html)
 
