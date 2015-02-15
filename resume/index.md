@@ -11,16 +11,17 @@ search_omit: false
 
 --------------------  
 
-##<span style="color: #C03E47">Experience</span>
+##<span style="color: #C03E47">Professional Experience</span>
 --------------------
 
-> ####August 2014-Present  
+> ####August 2014-Present
+**Software Engineer**  
+[Zillabyte](http://zillabyte.com) (San Francisco, CA)
 
-**Software Engineer**; &nbsp;Zillabyte (San Francisco, CA)
 
-:   *Distributed computing as a service*
-
-    **Backend Engineering Projects**
+*Distributed computing as a service*  
+<br>
+:   **Backend Engineering Projects**
   
       * Built Infrastructure Monitoring Service using Redis, Chef and Graphite  
       * Integrated Apache Kafka for data ingestion  
@@ -37,20 +38,22 @@ search_omit: false
 
 
 > ####June 2014-August 2014
+**Data Engineering Fellow**  
+[Insight Data Science](http://insightdatascience.com) (Palo Alto, CA)
 
-**Data Engineering Fellow**; &nbsp;Insight Data Science (Palo Alto, CA)
+*Three Month Data Engineering Fellowship*  
 
-:   *Three Month Data Engineering Fellowship*
- 
-    * Developed GFX, a data pipeline and web application for analyzing relationships between geopolitical events and foreign exchange currency trends using historical FOREX data and the open source GDELT data set.
+:   * Developed [GFX](http://github.com/nkarnik/GFX), a data pipeline and web application for analyzing relationships between geopolitical events and foreign exchange currency trends using historical FOREX data and the open source GDELT data set.
+
+    
 
 > ####June 2012-2013
+**Software Engineer**  
+[Optofluidics](http://opfluid.com) (Philadelphia, PA)
 
-**Software Engineer**; &nbsp;Optofluidics (Philadelphia, PA)
+*Nanoparticle Analysis, Coating Stability, and Optical Tweezers*
 
-:   *Nanoparticle Analysis, Coating Stability, and Optical Tweezers*
-
-    * Designed and implemented an automated routine to couple optical fibers with waveguides (through free space) on custom chips using a robotic stage to regulate the fiber position.
+:   * Designed and implemented an automated routine to couple optical fibers with waveguides (through free space) on custom chips using a robotic stage to regulate the fiber position.
 
     * Optimized the coupling routine for accuracy and run time (achieved O(N) from originally O(N^2) algorithm), achieving optimal results in both metrics.
         
