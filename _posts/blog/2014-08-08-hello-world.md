@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World"
+title: "Using Jekyll"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [jekyll,code,tutorial]
 image:
   feature:
 date: 2014-08-08T15:39:55-04:00

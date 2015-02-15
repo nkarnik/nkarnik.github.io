@@ -1,65 +1,78 @@
 ---
 layout: page
 title: Resume
-excerpt: "An archive of articles sorted by date."
-search_omit: true
+excerpt: "Nikhil Karnik's updated resume"
+search_omit: false
 ---
 
-Nikhil Karnik
+<span style="color: #796EBD"> nikhil.pankaj.karnik (at) gmail.com</span>
 ============
- 
--------------------     
-nikhil.pankaj.karnik@gmail.com                     
-San Francisco, CA                  
-USA                          
-------------------- 
- 
-Education
----------
- 
-2014-2014
-:   **Data Engineering Fellow**; Insight Data Science (Palo Alto, CA)
- 
-    *Developed GFX, a data pipeline and web application for analyzing relationships between geopolitical events and foreign exchange currency trends using historical FOREX data and the open source GDELT data set.*
- 
-2009-2013
-:   **BSE, Electrical Engineering**; University of
-    Pennsylvania (Philadelphia, PA)
- 
- 
-Experience
-----------
 
-August 2014-Present  
-:   **Software Engineer**; Zillabyte (San Francisco, CA)
 
-    *Distributed computing as a service*
+--------------------  
+
+##<span style="color: #C03E47">Experience</span>
+--------------------
+
+> ####August 2014-Present  
+
+**Software Engineer**; &nbsp;Zillabyte (San Francisco, CA)
+
+:   *Distributed computing as a service*
 
     **Backend Engineering Projects**
   
-      * Infrastructure Service Monitoring using Chef and Graphite  
-      * Integrated Apache Kafka for Data ingestion  
-      * Implemented Docker containers for customer process isolation  
+      * Built Infrastructure Monitoring Service using Redis, Chef and Graphite  
+      * Integrated Apache Kafka for data ingestion  
+      * Implemented Docker containers for isolating the execution of customer code 
  
     **Technical Evangelism**  
 
-      * [Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in [TechCrunch](http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/) and [Business Insider](http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11)  
-
+      
       * [What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)  
 
       * [Build a Global Weather Service in Under an Hour](https://www.twilio.com/blog/2015/01/rains-coming-tell-your-landlord-via-twilio-sms-and-zillabyte.html)  
 
+      * [Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in <a href="http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/" target="_blank" class="btn">TechCrunch</a> and <a href="http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11" target="_blank" class="btn">Business Insider</a>
 
-* First item
+
+> ####June 2014-August 2014
+
+**Data Engineering Fellow**; &nbsp;Insight Data Science (Palo Alto, CA)
+
+:   *Three Month Data Engineering Fellowship*
  
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    * Developed GFX, a data pipeline and web application for analyzing relationships between geopolitical events and foreign exchange currency trends using historical FOREX data and the open source GDELT data set.
+
+> ####June 2012-2013
+
+**Software Engineer**; &nbsp;Optofluidics (Philadelphia, PA)
+
+:   *Nanoparticle Analysis, Coating Stability, and Optical Tweezers*
+
+    * Designed and implemented an automated routine to couple optical fibers with waveguides (through free space) on custom chips using a robotic stage to regulate the fiber position.
+
+    * Optimized the coupling routine for accuracy and run time (achieved O(N) from originally O(N^2) algorithm), achieving optimal results in both metrics.
+        
+------------------- 
  
-**That Other Job You Had**
+##<span style="color: #C03E47">Education</span>
+--------------------
  
-Also with a short description.
+> ####2014  
+
+**Data Engineering Fellow**; Insight Data Science (Palo Alto, CA)  
+
+
+> ####2009-2013  
+
+**BSE, Electrical Engineering**; University of
+Pennsylvania (Philadelphia, PA)
  
-Technical Experience
+ 
+--------------------   
+
+## <span style="color: #C03E47">Technical Experience</span>  
 --------------------
  
 My Cool Side Project
