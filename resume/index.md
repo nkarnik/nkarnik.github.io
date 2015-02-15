@@ -33,9 +33,9 @@ Experience
 August 2014-Present  
 :    **Software Engineer**; Zillabyte (San Francisco, CA)
 
-    Distributed computing as a service
+    *Distributed computing as a service
 
-    Backend Engineering Projects
+    *Backend Engineering Projects
     * Infrastructure Service Monitoring using Chef and Graphite
     * Integrated Apache Kafka for Data ingestion
     * Implemented Docker containers for customer process isolation
