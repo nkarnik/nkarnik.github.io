@@ -31,7 +31,7 @@ Experience
 ----------
 
 August 2014-Present  
-:    **Software Engineer**; Zillabyte (San Francisco, CA)
+:   **Software Engineer**; Zillabyte (San Francisco, CA)
 
     *Distributed computing as a service
 
@@ -40,7 +40,7 @@ August 2014-Present
     * Integrated Apache Kafka for Data ingestion
     * Implemented Docker containers for customer process isolation
  
-    Technical Evangelism
+    *Technical Evangelism
     *[Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in [TechCrunch](http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/) and [Business Insider](http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11)
 
     *[What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)
