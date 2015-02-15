@@ -30,10 +30,8 @@ Education
 Experience
 ----------
 
-August 2014 - Present 
-
-**Zillabyte**
-
+August 2014 - Present  
+**Zillabyte**  
 **Software Engineer**
 
     Distributed computing as a service
