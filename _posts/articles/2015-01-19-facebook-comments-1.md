@@ -7,6 +7,7 @@ categories: articles
 tags: [zillabyte,python,facebook,comments,fivethirtyeight,web scraping,web crawling]
 comments: true
 share: true
+search_omit: false
 ---
 
 If your website or blog uses Facebook comments as its discussion platform, you may be unknowingly sitting on a goldmine of marketing data. In one interpretation, people who take the time to comment on your website (not spam) are some of your most engaged readers. Or enraged readers, depending on how objectionable they find your content :). Given Facebook's aggressive "real name" requirements, having your most engaged readers' valid identities and information can be useful for marketing strategy.

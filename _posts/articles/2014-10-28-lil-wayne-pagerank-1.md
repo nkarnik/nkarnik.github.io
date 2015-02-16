@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Rap Network
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "If we modeled the entire network of hip hop artists as an undirected graph, how would Lil Wayne's PageRank stack up to Kanye West or RZA?"
 modified: 2013-05-31
 categories: articles
 tags: [zillabyte,python,rap genius,web scraping,web crawling]
 comments: true
 share: true
+search_omit: false
 ---
 
 ![Raekwon Image]({{ site.url }}/images/raekwon_only.jpg)

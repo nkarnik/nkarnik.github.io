@@ -7,6 +7,7 @@ categories: articles
 tags: [zillabyte,python,facebook,comments,fivethirtyeight,web scraping,web crawling]
 comments: true
 share: true
+search_omit: false
 ---
 
 For e-commerce companies, cutthroat competition is an unavoidable fact of life. What if there were a way to leverage insights from competitors' behavior? E-commerce companies' main competitors are brick and mortar retail stores which sell an identical or substitute product.  A company like Warby Parker may want to know where all offline eyewear retailers' storefronts are located. 
