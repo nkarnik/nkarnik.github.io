@@ -21,14 +21,13 @@ search_omit: false
 
 *Distributed computing as a service*  
 <br>
-:   
-    **Backend Engineering Projects**
-  
+:   **Backend Engineering Projects**  
+
       * Built Infrastructure Monitoring Service using Redis, Chef and Graphite  
       * Integrated Apache Kafka for data ingestion  
       * Implemented Docker containers for isolating the execution of customer code 
  
-    **Technical Evangelism**  
+:   **Technical Evangelism**  
 
       
       * [What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)  
@@ -56,7 +55,7 @@ search_omit: false
 
 :   * Designed and implemented an automated routine to couple optical fibers with waveguides (through free space) on custom chips using a robotic stage to regulate the fiber position.
 
-    * Optimized the coupling routine for accuracy and run time (achieved O(N) from originally O(N^2) algorithm), achieving optimal results in both metrics.
+:    * Optimized the coupling routine for accuracy and run time (achieved O(N) from originally O(N^2) algorithm), achieving optimal results in both metrics.
         
 ------------------- 
  
@@ -95,35 +94,26 @@ Open Source
     your idea...
  
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+:   **python:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    mention some others together at the end.
  
-:   **second-lang:** Description of your experience with second-lang,
+:   **java:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
     file). 
  
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **ruby:** 
  
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Prior experience with **C**, **Go**, **Javascript**, **Bash**
  
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref]: https://github.com/nkarnik/
  
-Extra Section, Call it Whatever You Want
+## <span style="color: #C03E47">Random</span>
+
 ----------------------------------------
  
 * Human Languages:
  
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
- 
-* Random tidbit
- 
-* Other sort of impressive-sounding thing you did
+
