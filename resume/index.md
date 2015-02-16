@@ -19,22 +19,16 @@ search_omit: false
 [Zillabyte](http://zillabyte.com) (San Francisco, CA)
 
 
-*Distributed computing as a service*  
-<br>
-:   **Backend Engineering Projects**  
+- *Distributed computing as a service*  
+  - **Backend Engineering Projects**      
+    * Built Infrastructure Monitoring Service using Redis, Chef and Graphite  
+    * Integrated Apache Kafka for data ingestion  
+    * Implemented Docker containers for isolating the execution of customer code  
 
-      * Built Infrastructure Monitoring Service using Redis, Chef and Graphite  
-      * Integrated Apache Kafka for data ingestion  
-      * Implemented Docker containers for isolating the execution of customer code 
- 
-:   **Technical Evangelism**  
-
-      
-      * [What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)  
-
-      * [Build a Global Weather Service in Under an Hour](https://www.twilio.com/blog/2015/01/rains-coming-tell-your-landlord-via-twilio-sms-and-zillabyte.html)  
-
-      * [Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in <a href="http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/" target="_blank" class="btn">TechCrunch</a> and <a href="http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11" target="_blank" class="btn">Business Insider</a>
+  - **Technical Evangelism**  
+    * [What is Lil Wayne's PageRank?](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)  
+    * [Build a Global Weather Service in Under an Hour](https://www.twilio.com/blog/2015/01/rains-coming-tell-your-landlord-via-twilio-sms-and-zillabyte.html)  
+    * [Mapping the Startup Ecosystem](http://blog.zillabyte.com/2014/11/23/mapping-tech-bubbles/) covered in <a href="http://techcrunch.com/2014/12/05/zillabyte-startup-fundings/" target="_blank" class="btn">TechCrunch</a> and <a href="http://www.businessinsider.com/these-mesmerizing-time-lapse-maps-show-how-startups-are-transforming-major-cities-2014-11" target="_blank" class="btn">Business Insider</a>
 
 
 > ####June 2014-August 2014
