@@ -72,42 +72,29 @@ Pennsylvania (Philadelphia, PA)
 ## <span style="color: #C03E47">Technical Experience</span>  
 --------------------
  
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Tools/Frameworks**  
+
+* **Data Systems:** Kafka, Postgresql, Mysql, Redis, Storm, Spark, HDFS, Hadoop MapReduce, Hive, HBase  
+
+* **Operations:** Docker, Chef, AWS
+
+* **Web:** Flask, Ruby on Rails
  
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
  
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Programming Languages  
+
+* Proficient in **Python** , **Java** , **Ruby** 
  
-Programming Languages
-:   **python:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end.
- 
-:   **java:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
- 
-:   **ruby:** 
- 
-:   Prior experience with **C**, **Go**, **Javascript**, **Bash**
+* Prior experience with **C**, **Go**, **Javascript**, **Bash**
  
 [ref]: https://github.com/nkarnik/
+
+--------------------   
  
 ## <span style="color: #C03E47">Random</span>
-
 ----------------------------------------
  
-* Human Languages:
+* Work Authorization: US Citizen
  
-     * English (native speaker)
+
 
