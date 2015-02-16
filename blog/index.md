@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Blog
+title: Random Thoughts
 excerpt: "An archive of blog posts sorted by date."
-search_omit: true
+search_omit: false
 ---
 
 <ul class="post-list">
