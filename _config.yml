@@ -48,7 +48,7 @@ owner:
   google:
     plus: #username
     analytics: 
-    verify: <meta name="google-site-verification" content="RcCYjeTWsiwCPHEIJAzJsGLnC0IVxkQW9cMhfIzj5rU" />
+    verify:<meta name="google-site-verification" content="RcCYjeTWsiwCPHEIJAzJsGLnC0IVxkQW9cMhfIzj5rU" />
     ad-client:
     ad-slot: 
   bing-verify:
