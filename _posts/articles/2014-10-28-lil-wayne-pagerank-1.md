@@ -10,6 +10,8 @@ share: true
 search_omit: false
 ---
 
+*Note: I originally published this on the [zillablog:](http://blog.zillabyte.com/2014/10/28/lil-waynes-pagerank-part-1/)*
+
 ![Raekwon Image]({{ site.url }}/images/raekwon_only.jpg)
 {: .pull-left}
 Kanye West and Jay-Z, Dr. Dre and Snoop Dogg, Raekwon and Ghostface Killah, Lil Wayne and Drake: some rappers are best known for their  featured appearances and partnerships. After countless debates over the greatest rap duo of all time (still Raekwon and Ghostface, for the record), I was curious about how easily I could quantify the strength of rap affiliations. I also wanted to find out how interconnected the network of rap collaborations really was.
